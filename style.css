@@ -3,6 +3,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+h1 {
+    font-weight: 100;
+}
+
 .container {
     display: flex;
     align-items: center;
@@ -10,3 +14,4 @@ body {
     height: 100vh;
     flex-direction: column;
 }
+
